@@ -7,5 +7,10 @@ public class MainApplication {
         System.out.println("1111");
         System.out.println("1");
         System.out.println("4");
+        System.out.println("---");
+    }
+
+    public static void doSomething() {
+        System.out.println(1);
     }
 }
